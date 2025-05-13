@@ -1,0 +1,14 @@
+{
+  "name": "idor-insecure-direct-object-reference",
+  "version": "1.0.0",
+  "description": "IDOR is a type of access control vulnerability that occurs when an application exposes internal implementation objects (like database keys, filenames, or IDs) to users without proper authorization checks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
